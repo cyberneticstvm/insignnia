@@ -121,7 +121,7 @@
         <!-- inner menu area desktop start -->
         <div class="inner-main-wrapper-desk">
             <div class="thumbnail">
-                <img src="assets/images/banner/04.jpg" alt="elevate">
+                <img src="{{ asset('assets/images/banner/04.jpg') }}" alt="elevate">
             </div>
             <div class="inner-content">
                 <h4 class="title">We Build Building and Great Constructive Homes.</h4>
@@ -736,7 +736,7 @@
                         <!-- single clients feedbacka rea start -->
                         <div class="rts-clients-feedback-four">
                             <div class="thumbnail-area">
-                                <img src="assets/images/testimonials/02.png" alt="testimonials">
+                                <img src="{{ asset('assets/images/testimonials/02.png') }}" alt="testimonials">
                                 <div class="title-area">
                                     <h5 class="title">Andrew D. Smith</h5>
                                     <span>Manager</span>
