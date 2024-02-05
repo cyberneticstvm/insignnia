@@ -197,9 +197,9 @@
                     <div class="banner-six-wrapper">
                         <span class="pre-title" data-sal="slide-up" data-sal-delay="50" data-sal-duration="800">Hello! We are Elevate Team</span>
                         <h1 class="title" data-sal="slide-up" data-sal-delay="150" data-sal-duration="800">Innovative designs <br>
-                            <span>Makes                         <span class="strock" id="fullText">
-                                Function
-                            </span></span>
+                            <span>Makes <span class="strock" id="fullText">
+                                    Function
+                                </span></span>
                         </h1>
                         <a href="#" class="rts-btn btn-seconday p-short" data-sal="slide-up" data-sal-delay="300" data-sal-duration="800">
                             See Projects <i class="fa-regular fa-arrow-up-right"></i>
@@ -218,7 +218,7 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="thumbnail-about-six">
-                        <img class="image-lg" src="{{ asset('assets/images/about/12.jpg') }}" alt="about-image">
+                        <img class="image-lg" src="{{ asset('assets/images/about/img1.jpeg') }}" alt="about-image">
                         <img class="image-sm" src="{{ asset('assets/images/about/13.jpg') }}" alt="about-image">
                     </div>
                 </div>
