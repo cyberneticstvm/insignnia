@@ -16,3 +16,12 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('index');
 });
+Route::get('/portfolios/varkala', function () {
+    return view('portfolios.varkala');
+})->name('varkala');
+Route::get('/portfolios/trivandrum', function () {
+    return view('portfolios.trivandrum');
+})->name('trivandrum');
+Route::get('/portfolios/pandalam', function () {
+    return view('portfolios.pandalam');
+})->name('pandalam');
