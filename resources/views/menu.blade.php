@@ -6,13 +6,13 @@
         <nav>
             <ul id="nav">
                 <li class="menu-item current">
-                    <a class="nav-item" href="#home">Home</a>
+                    <a class="nav-item" href="/">Home</a>
                 </li>
                 <li class="menu-item">
-                    <a class="nav-item" href="#about">About</a>
+                    <a class="nav-item" href="/">About</a>
                 </li>
                 <li class="menu-item">
-                    <a class="nav-item" href="#service">Service</a>
+                    <a class="nav-item" href="/">Service</a>
                 </li>
                 <li class="has-droupdown pages">
                     <a class="nav-link" href="#">Portfolio</a>
@@ -23,10 +23,10 @@
                     </ul>
                 </li>
                 <li class="menu-item">
-                    <a class="nav-item" href="#blog">Blog</a>
+                    <a class="nav-item" href="/">Blog</a>
                 </li>
                 <li class="menu-item">
-                    <a class="nav-item" href="#contact">Contact</a>
+                    <a class="nav-item" href="/">Contact</a>
                 </li>
             </ul>
         </nav>
