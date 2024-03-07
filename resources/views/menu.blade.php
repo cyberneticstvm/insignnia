@@ -17,7 +17,7 @@
                 <li class="has-droupdown pages">
                     <a class="nav-link" href="#">Portfolio</a>
                     <ul class="submenu inner-page">
-                        <li><a href="{{ route('varkala') }}">Varkala Projects (Interior)</a></li>
+                        <li><a href="{{ route('varkala') }}">Varkala Projects</a></li>
                         <li><a href="{{ route('pandalam') }}">Pandalam Projects</a></li>
                         <li><a href="{{ route('trivandrum') }}">Trivandrum Projects</a></li>
                     </ul>
