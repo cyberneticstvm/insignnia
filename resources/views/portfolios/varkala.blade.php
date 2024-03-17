@@ -16,7 +16,7 @@
                         <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
                             <!-- single tab content start -->
                             <div class="row g-24 mb--25">
-                                @for($i=1; $i<=12; $i++) <div class="col-lg-6">
+                                @for($i=1; $i<=13; $i++) <div class="col-lg-6">
                                     <div class="single-case-wrapper">
                                         <a href="#">
                                             <img class="main-2" src='{{ asset("/assets/images/portfolios/varkala/$i.jpeg") }}' alt="projects-images">
